@@ -306,7 +306,7 @@ a:hover {
   position: relative;
 }
 
-/*.wall .floors .window > div .glare::before {
+.wall .floors .window>div .glare::before {
   content: '';
   position: absolute;
   width: 8px;
@@ -316,7 +316,8 @@ a:hover {
   left: -3px;
   background: #89d3d9;
 }
-.wall .floors .window > div .glare::after {
+
+/*.wall .floors .window > div .glare::after {
   content: '';
   position: absolute;
   width: 15px;
