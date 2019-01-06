@@ -250,7 +250,7 @@ a:hover {
   background: #f5865e;
 }
 
-/*.wall .floors .window > div .pot .leaves::before {
+.wall .floors .window>div .pot .leaves::before {
   content: '';
   position: absolute;
   border-radius: 50px;
@@ -263,7 +263,8 @@ a:hover {
   top: 0;
   background: #68a694;
 }
-.wall .floors .window > div .pot .leaves::after {
+
+/*.wall .floors .window > div .pot .leaves::after {
   content: '';
   position: absolute;
   border-radius: 50px;
