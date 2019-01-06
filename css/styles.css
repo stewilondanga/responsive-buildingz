@@ -189,7 +189,7 @@ a:hover {
   background: #bfbfa2;
 }
 
-/*.wall .floors .window > div.pane::before {
+.wall .floors .window>div.pane::before {
   content: '';
   position: absolute;
   top: calc(100% + 4px);
@@ -200,7 +200,8 @@ a:hover {
   height: 30px;
   background: #1b3957;
 }
-.wall .floors .window > div.pane::after {
+
+/*.wall .floors .window > div.pane::after {
   content: '';
   position: absolute;
   top: calc(100% + 30px);
