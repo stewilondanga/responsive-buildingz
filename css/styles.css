@@ -220,7 +220,7 @@ a:hover {
   bottom: 0;
 }
 
-/*.wall .floors .window > div .pot::before {
+.wall .floors .window>div .pot::before {
   content: '';
   position: absolute;
   bottom: 0;
@@ -234,7 +234,8 @@ a:hover {
   border-right: none;
   background: #f5865e;
 }
-.wall .floors .window > div .pot::after {
+
+/*.wall .floors .window > div .pot::after {
   content: '';
   position: absolute;
   right: 3px;
