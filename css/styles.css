@@ -37,7 +37,7 @@ a:hover {
   box-sizing: border-box;
 }
 
-/*.wrap {
+.wrap {
   width: 100%;
   min-height: 100vh;
   display: -webkit-box;
@@ -55,7 +55,7 @@ a:hover {
   background: #89d3d9;
 }
 
-#building {
+/*#building {
   width: 215px;
   margin: 0 auto;
   -webkit-transition: .22s width linear;
