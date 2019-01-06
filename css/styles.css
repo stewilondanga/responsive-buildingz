@@ -294,7 +294,7 @@ a:hover {
   align-items: center;
 }
 
-/*.wall .floors .window > div .glare {
+.wall .floors .window>div .glare {
   width: 30px;
   height: 2.1px;
   display: block;
@@ -305,7 +305,8 @@ a:hover {
   transform: rotate(-45deg);
   position: relative;
 }
-.wall .floors .window > div .glare::before {
+
+/*.wall .floors .window > div .glare::before {
   content: '';
   position: absolute;
   width: 8px;
