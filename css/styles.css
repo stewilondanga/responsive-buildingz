@@ -386,7 +386,7 @@ a:hover {
   justify-content: space-around;
 }
 
-/*#door .main .glass {
+#door .main .glass {
   width: calc(50% - 8px);
   height: 50px;
   background: #89d3d9;
@@ -395,7 +395,8 @@ a:hover {
   border-bottom: 3px solid #1b3957;
   position: relative;
 }
-#door .main .glass::before {
+
+/*#door .main .glass::before {
   content: '';
   position: absolute;
   width: 10px;
