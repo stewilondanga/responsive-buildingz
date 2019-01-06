@@ -76,7 +76,7 @@ a:hover {
   margin: 0 auto;
 }
 
-/*.roof .layer-1::before, .roof .layer-2::before {
+.roof .layer-1::before, .roof .layer-2::before {
   content: '';
   width: 52%;
   height: 10px;
@@ -92,7 +92,8 @@ a:hover {
   box-shadow: -1px 0px 0 1px rgba(0, 0, 0, 0.15);
   background: #bfbfa2;
 }
-.roof .layer-1::after, .roof .layer-2::after {
+
+/*.roof .layer-1::after, .roof .layer-2::after {
   content: '';
   width: 52%;
   height: 10px;
