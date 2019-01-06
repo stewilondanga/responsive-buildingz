@@ -492,13 +492,14 @@ ul, li {
   box-shadow: 0 7px 0 1px rgba(0, 0, 0, 0.15);
 }
 
-/*#main-window .cloth ul li {
+#main-window .cloth ul li {
   width: 2px;
   height: 22px;
   background: #fff;
   position: relative;
 }
-#main-window .cloth ul li::before {
+
+/*#main-window .cloth ul li::before {
   content: '';
   position: absolute;
   -webkit-box-shadow: 0 2px 0 1px rgba(0, 0, 0, 0.15);
