@@ -317,7 +317,7 @@ a:hover {
   background: #89d3d9;
 }
 
-/*.wall .floors .window > div .glare::after {
+.wall .floors .window>div .glare::after {
   content: '';
   position: absolute;
   width: 15px;
@@ -328,7 +328,7 @@ a:hover {
   background: #89d3d9;
 }
 
-.basement {
+/*.basement {
   padding: 20px 20px 0 20px;
   display: -webkit-box;
   display: -ms-flexbox;
