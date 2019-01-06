@@ -110,12 +110,12 @@ a:hover {
   box-shadow: 3px 0px 0 1px rgba(0, 0, 0, 0.15);
 }
 
-/*.roof .layer-2 {
+.roof .layer-2 {
   width: 90%;
   height: 17.5px;
 }
 
-@media screen and (min-width: 750px) {
+/*@media screen and (min-width: 750px) {
   #building {
     width: 715px;
   }
