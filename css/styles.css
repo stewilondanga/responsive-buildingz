@@ -478,7 +478,7 @@ ul, li {
   box-shadow: 0 7px 0 1px rgba(0, 0, 0, 0.15);
 }
 
-/*#main-window .cloth ul {
+#main-window .cloth ul {
   background: #bfbfa2;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -491,7 +491,8 @@ ul, li {
   -webkit-box-shadow: 0 7px 0 1px rgba(0, 0, 0, 0.15);
   box-shadow: 0 7px 0 1px rgba(0, 0, 0, 0.15);
 }
-#main-window .cloth ul li {
+
+/*#main-window .cloth ul li {
   width: 2px;
   height: 22px;
   background: #fff;
