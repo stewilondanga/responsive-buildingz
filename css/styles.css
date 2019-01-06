@@ -55,7 +55,7 @@ a:hover {
   background: #89d3d9;
 }
 
-/*#building {
+#building {
   width: 215px;
   margin: 0 auto;
   -webkit-transition: .22s width linear;
@@ -63,7 +63,7 @@ a:hover {
   transition: .22s width linear;
 }
 
-.roof span {
+/*.roof span {
   background: #bfbfa2;
   border: 5px solid #1b3957;
   margin: 0 auto;
