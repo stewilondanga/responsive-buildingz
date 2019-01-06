@@ -201,7 +201,7 @@ a:hover {
   background: #1b3957;
 }
 
-/*.wall .floors .window > div.pane::after {
+.wall .floors .window>div.pane::after {
   content: '';
   position: absolute;
   top: calc(100% + 30px);
@@ -212,7 +212,8 @@ a:hover {
   height: 8px;
   background: #1b3957;
 }
-.wall .floors .window > div .pot {
+
+/*.wall .floors .window > div .pot {
   position: absolute;
   height: 20px;
   width: 20px;
