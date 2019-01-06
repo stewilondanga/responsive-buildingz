@@ -428,7 +428,7 @@ a:hover {
   transform: rotate(-50deg);
 }
 
-/*#door .main .glass .knob {
+#door .main .glass .knob {
   width: 3px;
   height: 3px;
   background: #f5865e;
@@ -436,7 +436,8 @@ a:hover {
   bottom: 5px;
   right: 2px;
 }
-#door .bar {
+
+/*#door .bar {
   width: 70%;
   height: 2px;
   border-radius: 5px;
