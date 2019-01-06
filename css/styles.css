@@ -469,7 +469,7 @@ ul, li {
   list-style-type: none;
 }
 
-/*#main-window {
+#main-window {
   width: 50%;
   height: 85px;
   border: 4px solid #1b3957;
@@ -477,7 +477,8 @@ ul, li {
   -webkit-box-shadow: 0 7px 0 1px rgba(0, 0, 0, 0.15);
   box-shadow: 0 7px 0 1px rgba(0, 0, 0, 0.15);
 }
-#main-window .cloth ul {
+
+/*#main-window .cloth ul {
   background: #bfbfa2;
   display: -webkit-box;
   display: -ms-flexbox;
