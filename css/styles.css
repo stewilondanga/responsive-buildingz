@@ -511,7 +511,7 @@ ul, li {
   bottom: -5px;
 }
 
-/*#main-window .window {
+#main-window .window {
   height: 48px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -526,7 +526,8 @@ ul, li {
   justify-content: space-around;
   padding: 0 4px 0 4px;
 }
-#main-window .window .glass {
+
+/*#main-window .window .glass {
   width: 100%;
   height: 100%;
   margin: 0 auto;
