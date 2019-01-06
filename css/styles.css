@@ -185,10 +185,11 @@ a:hover {
   box-shadow: 0 3px 0 1px rgba(0, 0, 0, 0.15);
 }
 
-/*.wall .floors .window > div.pane {
+.wall .floors .window>div.pane {
   background: #bfbfa2;
 }
-.wall .floors .window > div.pane::before {
+
+/*.wall .floors .window > div.pane::before {
   content: '';
   position: absolute;
   top: calc(100% + 4px);
