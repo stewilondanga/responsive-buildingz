@@ -375,7 +375,7 @@ a:hover {
   border-radius: 10px 10px 0 0;
 }
 
-/*#door .main {
+#door .main {
   padding: 8px 0 0 0;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -385,7 +385,8 @@ a:hover {
   -ms-flex-pack: distribute;
   justify-content: space-around;
 }
-#door .main .glass {
+
+/*#door .main .glass {
   width: calc(50% - 8px);
   height: 50px;
   background: #89d3d9;
