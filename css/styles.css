@@ -173,12 +173,13 @@ a:hover {
   background: #fff;
 }
 
-/*.wall .floors .window > div {
+.wall .floors .window>div {
   height: 50%;
   width: 100%;
   position: relative;
 }
-.wall .floors .window > div:first-child {
+
+/*.wall .floors .window > div:first-child {
   border-bottom: 4px solid #1b3957;
   -webkit-box-shadow: 0 3px 0 1px rgba(0, 0, 0, 0.15);
   box-shadow: 0 3px 0 1px rgba(0, 0, 0, 0.15);
