@@ -63,12 +63,13 @@ a:hover {
   transition: .22s width linear;
 }
 
-/*.roof span {
+.roof span {
   background: #bfbfa2;
   border: 5px solid #1b3957;
   margin: 0 auto;
 }
-.roof .layer-1, .roof .layer-2 {
+
+/*.roof .layer-1, .roof .layer-2 {
   width: 100%;
   height: 17px;
   position: relative;
