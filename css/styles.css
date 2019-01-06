@@ -328,7 +328,7 @@ a:hover {
   background: #89d3d9;
 }
 
-/*.basement {
+.basement {
   padding: 20px 20px 0 20px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -340,7 +340,7 @@ a:hover {
   justify-content: space-between;
 }
 
-#door {
+/*#door {
   width: 37%;
   background: #fff;
   border: 4px solid #1b3957;
