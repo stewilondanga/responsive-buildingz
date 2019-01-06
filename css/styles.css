@@ -278,7 +278,7 @@ a:hover {
   background: #68a694;
 }
 
-/*.wall .floors .window > div {
+.wall .floors .window>div {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -293,7 +293,8 @@ a:hover {
   -ms-flex-align: center;
   align-items: center;
 }
-.wall .floors .window > div .glare {
+
+/*.wall .floors .window > div .glare {
   width: 30px;
   height: 2.1px;
   display: block;
