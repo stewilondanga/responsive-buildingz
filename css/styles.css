@@ -137,13 +137,14 @@ a:hover {
   }
 }
 
-/*.wall {
+.wall {
   background: #f5865e;
   width: 87%;
   border: 5px solid #1b3957;
   margin: 0 auto;
 }
-.wall .floors {
+
+/*.wall .floors {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
