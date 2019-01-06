@@ -179,12 +179,13 @@ a:hover {
   position: relative;
 }
 
-/*.wall .floors .window > div:first-child {
+.wall .floors .window>div:first-child {
   border-bottom: 4px solid #1b3957;
   -webkit-box-shadow: 0 3px 0 1px rgba(0, 0, 0, 0.15);
   box-shadow: 0 3px 0 1px rgba(0, 0, 0, 0.15);
 }
-.wall .floors .window > div.pane {
+
+/*.wall .floors .window > div.pane {
   background: #bfbfa2;
 }
 .wall .floors .window > div.pane::before {
