@@ -499,7 +499,7 @@ ul, li {
   position: relative;
 }
 
-/*#main-window .cloth ul li::before {
+#main-window .cloth ul li::before {
   content: '';
   position: absolute;
   -webkit-box-shadow: 0 2px 0 1px rgba(0, 0, 0, 0.15);
@@ -510,7 +510,8 @@ ul, li {
   background: #1b3957;
   bottom: -5px;
 }
-#main-window .window {
+
+/*#main-window .window {
   height: 48px;
   display: -webkit-box;
   display: -ms-flexbox;
