@@ -396,7 +396,7 @@ a:hover {
   position: relative;
 }
 
-/*#door .main .glass::before {
+#door .main .glass::before {
   content: '';
   position: absolute;
   width: 10px;
@@ -411,7 +411,8 @@ a:hover {
   -ms-transform: rotate(-50deg);
   transform: rotate(-50deg);
 }
-#door .main .glass::after {
+
+/*#door .main .glass::after {
   content: '';
   position: absolute;
   width: 10px;
