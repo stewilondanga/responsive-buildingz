@@ -235,7 +235,7 @@ a:hover {
   background: #f5865e;
 }
 
-/*.wall .floors .window > div .pot::after {
+.wall .floors .window>div .pot::after {
   content: '';
   position: absolute;
   right: 3px;
@@ -249,7 +249,8 @@ a:hover {
   border-left: none;
   background: #f5865e;
 }
-.wall .floors .window > div .pot .leaves::before {
+
+/*.wall .floors .window > div .pot .leaves::before {
   content: '';
   position: absolute;
   border-radius: 50px;
