@@ -93,7 +93,7 @@ a:hover {
   background: #bfbfa2;
 }
 
-/*.roof .layer-1::after, .roof .layer-2::after {
+.roof .layer-1::after, .roof .layer-2::after {
   content: '';
   width: 52%;
   height: 10px;
@@ -109,7 +109,8 @@ a:hover {
   -webkit-box-shadow: 3px 0px 0 1px rgba(0, 0, 0, 0.15);
   box-shadow: 3px 0px 0 1px rgba(0, 0, 0, 0.15);
 }
-.roof .layer-2 {
+
+/*.roof .layer-2 {
   width: 90%;
   height: 17.5px;
 }
