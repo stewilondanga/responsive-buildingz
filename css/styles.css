@@ -437,14 +437,15 @@ a:hover {
   right: 2px;
 }
 
-/*#door .bar {
+#door .bar {
   width: 70%;
   height: 2px;
   border-radius: 5px;
   background: #1b3957;
   margin: 5px auto;
 }
-#door .bottom {
+
+/*#door .bottom {
   width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
